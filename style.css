@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background-image: url('images/background.jpg');
+    }
+
+    h1 {
+        Color: #0ff7cc;
+        Font-size: 70px;
+        padding: 10px;
+    }
+
+    p{
+        color:#ffffff;
+        font-size: 30px;
+        padding: 10px;
+    }
+    p2{
+        font-size: 30px;
+        padding: 10px;
+        color: #ffffff;
+    }
+    
+a {
+    color:chartreuse;
+}
+h2 {
+    color:#ffffff;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+img {
+    border: 5px solid #ffffff;
+    border-radius: 15px;
+}
